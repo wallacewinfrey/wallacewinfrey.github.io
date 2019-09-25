@@ -23,6 +23,7 @@ resume_contact_address:         "31478 Burke Road Golden CO 80403"
 resume_header_contact_info:     "31478 Burke Road Golden CO 80403 • 720-244-2423 • wwinfrey@gmail.com"
 display_header_contact_info:    "false"
 
+# executive summary
 resume_header_intro: "<p>Expert problem solver and lifelong learner seeking new problems to solve, will exceed expectations. Optimize engineering teams by designing and supporting CI/CD systems. Have a hand in designing and innovating the operating system of an engineering organization. Desire to develop operational expertise with Kubernetes and modern tech stacks.</p>"
 
 # use "yes" to display the email contact button,
