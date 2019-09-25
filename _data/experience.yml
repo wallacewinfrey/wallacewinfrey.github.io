@@ -1,0 +1,18 @@
+# Jobs
+# Senior DevOps Admin
+- company: Oracle
+  position: Senior DevOps Administrator
+  duration: March, 2012 &mdash; August, 2019
+  summary: Responsible for design, implementation and scaling of code management/build/deployment systems that grew with team
+
+# Senior Development Engineer
+- company: Presilient, LLC
+  position: Senior Development Engineer
+  duration: September, 2010 &mdash; January, 2012
+  summary: Designed configuration management solution employing fault-tolerant Nagios & Puppet
+
+# Linux/Windows Web Administrator
+- company: Wall Street On Demand
+  position: Linux/Windows Web Administrator
+  duration: April, 2009 &mdash; September, 2010
+  summary: Designed & deployed banner ad management system based on php-fpm and nginx server pools; delivered solution at ¼ the cost of the system it replaced
