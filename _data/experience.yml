@@ -3,16 +3,22 @@
 - company: Oracle
   position: Senior DevOps Administrator
   duration: March, 2012 &mdash; August, 2019
-  summary: Responsible for design, implementation and scaling of code management/build/deployment systems that grew with team
+  summary: <ul> <li>Responsible for design, implementation and scaling of code management/build/deployment systems that grew with team <li> Maximized engineering velocity using Jenkins, TeamCity, Artifactory, Fortify, etc. <li> Migrated multiple engineering teams to use build/deploy systems <li> Tenacious advocate for process automation and optimization <li>Spearheaded agile implementation and tooling adoption using the Atlassian ecosystem including Jira, BitBucket, Confluence, Crowd, FishEye, etc <li>Assumed ownership, care and feeding of complex legacy systems <li>Enforced rigorous engineering by evangelizing monitoring and task tracking systems </ul>
 
 # Senior Development Engineer
 - company: Presilient, LLC
   position: Senior Development Engineer
   duration: September, 2010 &mdash; January, 2012
-  summary: Designed configuration management solution employing fault-tolerant Nagios & Puppet
+  summary: <ul> <li> Designed configuration management solution employing fault-tolerant Nagios & Puppet <li> Customized, extended, upgraded & strengthened OTRS helpdesk system <li> Taught Unix systems how to speak ActiveDirectory and introduced SSO to managed services company </ul>
 
 # Linux/Windows Web Administrator
 - company: Wall Street On Demand
   position: Linux/Windows Web Administrator
   duration: April, 2009 &mdash; September, 2010
-  summary: Designed & deployed banner ad management system based on php-fpm and nginx server pools; delivered solution at ¼ the cost of the system it replaced
+  summary: <ul> <li> Designed & deployed banner ad management system based on php-fpm and nginx server pools; delivered solution at ¼ the cost of the system it replaced <li> Brought much-needed UNIX expertise to a Windows shop, working with multiple teams to help them lower costs & required effort, while developing expertise IIS, MS Server, AD & SQL Server <li> Took ownership of internal support tools, increased their reliability & responsiveness in service to goal of UNIX & OSS evangelization </ul>
+
+# Systems Administrator
+- company: Cycling 74
+  position: Systems Hacker
+  duration: October, 2003 - March, 2009
+  summary: <ul> <li>Transformed the company from a small audio software company with phone/email-based support & brochure web site to a 21 st-century entity by transforming support, user communities, sales & development via tech overhaul <li> Completely overhauled & automated primary mechanism for protecting company’s intellectual property while saving over 10,000 man-hours in the first year of deployment <li>Supported internationally distributed workforce via deployment & administration of modern toolsets <li> Successfully migrated 20+-year-old C/C++ codebase for 5 different products & 250k+ revisions from CVS to Subversion </ul>
